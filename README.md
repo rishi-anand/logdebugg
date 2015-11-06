@@ -1,4 +1,4 @@
-# { NOTICE : For logdebugg wait till next COMMIT }
+
 
 ## logdebugg
 
@@ -51,5 +51,7 @@ Greps logs based on:
 2. cd logdebugg/
 3. ./logdebugger.sh
  
+
+# { NOTICE : Next logdebugg is coming soon with new features and precise help}
 
 Report bugs to 'rishi.anand0@outlook.com'.
