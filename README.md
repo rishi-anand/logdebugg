@@ -1,4 +1,4 @@
-# { NOTICE : For logdebugg wait till next COMMIT }
+
 
 ## logdebugg
 
@@ -49,7 +49,9 @@ Greps logs based on:
 
 1. git clone https://github.com/rishi-anand/logdebugg.git
 2. cd logdebugg/
-3. ./logdebugger.sh
+3. ./logdebugg.sh
  
+
+# { NOTICE : Next version of 'logdebugg' is coming soon with new features. }
 
 Report bugs to 'rishi.anand0@outlook.com'.
