@@ -52,6 +52,6 @@ Greps logs based on:
 3. ./logdebugger.sh
  
 
-# { NOTICE : Next logdebugg is coming soon with new features. }
+# { NOTICE : Next version of 'logdebugg' is coming soon with new features. }
 
 Report bugs to 'rishi.anand0@outlook.com'.
